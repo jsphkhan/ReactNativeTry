@@ -19,6 +19,7 @@ Check this blog post for full guide: https://josephkhan.me/react-native-lottie-a
 
 ## Demo Gif
 ![Demo](gif/demo.gif)
+![Demo](gif/demo1.gif)
 
 ### Issues and concerns
 Pls write me at jsphkhan@gmail.com or raise an issue.
