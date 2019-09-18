@@ -17,6 +17,9 @@ Hit the Run button
 
 Check this blog post for full guide: https://josephkhan.me/react-native-lottie-animations
 
+## Demo Gif
+![Demo](gif/demo.gif)
+
 ### Issues and concerns
 Pls write me at jsphkhan@gmail.com or raise an issue.
 
