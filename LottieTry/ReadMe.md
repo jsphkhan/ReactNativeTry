@@ -1,11 +1,25 @@
-ReadMe
+# LottieTry
+Demo React Native application that shows how to integrate Lotie animations.
 
-Install all dependencies
-npm install
+### Instructions
+```
+git clone https://github.com/jsphkhan/ReactNativeTry.git
+```
+```
+$ cd LottieTry
+$ npm install
+$ cd ios
+$ pod install
 
-cd ios/
-pod install
+Open LottieTry/ios/LottieTry.xcworkspace
+Hit the Run button
+```
 
-If you are having linking issue then refer my blog post. 
+Check this blog post for full guide: https://josephkhan.me/react-native-lottie-animations
 
-For full tutorial follow my blog post.
+### Issues and concerns
+Pls write me at jsphkhan@gmail.com or raise an issue.
+
+### License
+This project is licensed under the MIT License
+
